@@ -6,7 +6,7 @@ I love solving puzzles and I'm fascinated with how people learn and communicate.
 
 I’m looking to collaborate on open-sourced projects that I find interesting, engaging or for the charity sector.
 
-You can reach me via my [homepage](https://www.jamesmonks.com).
+You can reach me via my [homepage](https://www.jamesmonks.com) and you can view my CV/resume on [LinkedIn](https://www.linkedin.com/in/noodleninja/).
 
 If you've read all this you're either a bot or a person of leisure. Either way, welcome ( 01110111 01100101 01101100 01100011 01101111 01101101 01100101 )
 
