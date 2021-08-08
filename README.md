@@ -1,4 +1,4 @@
-Hi, I’m James Monks, a professional full stack Software Developer.
+Hi, I’m James Monks, a professional full stack software developer.
 
 I’m looking to collaborate on open-sourced projects that I find interesting, engaging or for the charity sector.
 
