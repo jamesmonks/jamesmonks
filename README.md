@@ -1,4 +1,8 @@
-Hi, I’m James Monks, a professional full stack software developer.
+I am a professional software engineer specializing in software design and development.
+
+I took a career break to focus on acting as a carer for my severely autistic son while he was growing up. I'm now ready to get back into professional work with a particular focus on the charity sector.
+
+I love solving puzzles and I'm fascinated with how people learn and communicate. This allows me to better design software for the wider range of users and be more in line with a client's vision.
 
 I’m looking to collaborate on open-sourced projects that I find interesting, engaging or for the charity sector.
 
